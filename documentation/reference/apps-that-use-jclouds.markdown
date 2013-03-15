@@ -32,14 +32,17 @@ are valuable members of our community.
 ##[Blow!](https://github.com/paoloditommaso/blow)##
    - uses jclouds for cluster deployments in the cloud
 
+##[Brooklyn](http://brooklyn.io/)##
+   - uses jclouds ComputeService to manage machines in multiple providers
+
 ##[Chef integration](https://github.com/jclouds/jclouds-chef)##
    - jclouds bootstraps nodes based on chef run-lists
 
 ##[CloudBees](http://cloudbees.com/)##
    - orchestrates provisioning workflows over jclouds provider APIs using Scala
 
-##[Cloudsoft Monterey](http://www.cloudsoftcorp.com/)##
-   - uses [ComputeService](http://www.jclouds.org/documentation/userguide/compute/) to extend the Monterey overlay network across multiple public clouds
+##[Cloudsoft Application Management Platform](http://www.cloudsoftcorp.com/)##
+   - uses jclouds to provide automated management of applications and platfroms in and across multiple clouds.
 
 ##[Cloudstore](https://cldstr.com/)##
    - uses jclouds to enable non-technical users to run web apps on EC2, Rackspace and others
