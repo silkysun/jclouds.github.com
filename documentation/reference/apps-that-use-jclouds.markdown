@@ -32,6 +32,9 @@ are valuable members of our community.
 ##[Blow!](https://github.com/paoloditommaso/blow)##
    - uses jclouds for cluster deployments in the cloud
 
+##[Brooklyn](http://brooklyn.io/)##
+   - uses jclouds ComputeService to manage machines in multiple providers
+
 ##[Chef integration](https://github.com/jclouds/jclouds-chef)##
    - jclouds bootstraps nodes based on chef run-lists
 
