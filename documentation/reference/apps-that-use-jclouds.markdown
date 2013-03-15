@@ -38,8 +38,8 @@ are valuable members of our community.
 ##[CloudBees](http://cloudbees.com/)##
    - orchestrates provisioning workflows over jclouds provider APIs using Scala
 
-##[Cloudsoft Monterey](http://www.cloudsoftcorp.com/)##
-   - uses [ComputeService](http://www.jclouds.org/documentation/userguide/compute/) to extend the Monterey overlay network across multiple public clouds
+##[Cloudsoft Application Management Platform](http://www.cloudsoftcorp.com/)##
+   - uses jclouds to provide automated management of applications and platfroms in and across multiple clouds.
 
 ##[Cloudstore](https://cldstr.com/)##
    - uses jclouds to enable non-technical users to run web apps on EC2, Rackspace and others
